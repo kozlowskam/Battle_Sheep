@@ -1,0 +1,13 @@
+.board-tile {
+  height: 50px;
+  width: 50px;
+}
+.Board {
+  flex: 1;
+  display: "inline-block";
+  margin: 30px auto;
+  height: 50px;
+  width: 50px;
+  min-width: 10%;
+  max-width: 80%;
+}

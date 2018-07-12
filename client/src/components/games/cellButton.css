@@ -1,0 +1,32 @@
+.cellButton {
+  flex: 1;
+  display: "inline-block";
+  min-width: 40px;
+  max-width: 40px;
+  min-height: 40px;
+  max-height: 40px;
+  background-color: rgb(10, 245, 22);
+  cursor: pointer;
+}
+
+#sheep {
+  background-color: rgb(255, 255, 255);
+}
+
+.scored {
+  background-color: rgb(81, 10, 245);
+}
+
+.Button.empty {
+  background-color: rgb(10, 245, 22);
+}
+
+.Button.discovered {
+  background-color: rgb(255, 8, 82);
+}
+
+.sheepImage {
+  width: 40px;
+  height: 40px;
+  display: "inline-block";
+}
